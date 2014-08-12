@@ -1,0 +1,13 @@
+.post{
+	background-color: white;
+	margin: 15px;
+	/*border:1px solid black;*/
+	box-shadow: 2px 3px 5px solid black;
+
+}
+.share-form{
+	background-color: white;
+}
+.img-userlogo{
+	width: 70px !important;
+}

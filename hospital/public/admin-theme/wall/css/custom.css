@@ -1,0 +1,82 @@
+body{
+	background:#E5E5E5;
+}
+element.style{
+	height: auto;
+}
+.right-side {
+background-color: #E5E5E5;
+/*margin-left: 220px;*/
+}
+.content{
+	background: #E5E5E5;
+}
+
+
+/* changed color for navigation*/
+.skin-blue .navbar{
+	background-color: #fff;
+	/*border-bottom: 1px solid rgb(37, 146, 89);*/
+	box-shadow: 0px 0px 4px green;
+}
+
+.skin-blue .logo{
+	background-color: #fff;
+	color: #f9f9f9;
+	/*border-bottom: 1px solid rgb(37, 146, 89);*/
+	box-shadow: 0px 0px 4px green;
+}
+.skin-blue .logo:hover{
+	background-color: #fff;
+	color: #f9f9f9;
+	/*border-bottom: 1px solid rgb(37, 146, 89);*/
+	box-shadow: 0px 0px 4px green;
+}
+
+.skin-blue .navbar .sidebar-toggle .icon-bar {
+	background: rgba(22, 194, 43, 0.8);
+}
+
+.skin-blue .navbar .nav a {
+	color: rgba(153, 147, 147, 0.8);
+}
+
+/* for timeline post box*/
+.timelines {
+  list-style: none;
+  padding: 30px 0 20px 20px;
+}
+
+
+/* for post timeline*/
+.post{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+
+	background-color: #ffffff;
+	border-color: #D8D8D8;
+	border-image: none;
+	border-left: 1px solid #D8D8D8;
+	border-radius: 3px;
+	border-right: 1px solid #D8D8D8;
+	border-style: solid;
+	border-width: 0 1px 2px;
+	box-sizing: border-box;
+	margin: 15px;
+	/*border:1px solid black;*/
+	/*box-shadow: 2px 3px 5px solid black;*/
+
+
+}
+.share-form{
+	background-color: white;
+}
+.img-userlogo{
+	width: 70px !important;
+}
+.posted-time{
+	color: #999999;
+	font-size: 12px;
+}
